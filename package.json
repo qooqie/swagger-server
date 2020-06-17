@@ -55,7 +55,7 @@
     "directory-search": "0.0.32",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
-    "@apidevtools/swagger-express-middleware": "1.0.0-alpha.12",
+    "@apidevtools/swagger-express-middleware": "v1.0.0-alpha.12",
     "swagger-methods": "^1.0.0"
   }
 }
