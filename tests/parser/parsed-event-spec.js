@@ -1,7 +1,7 @@
 'use strict';
 
 var env           = require('../test-environment'),
-    SwaggerParser = require('../../node_modules/swagger-express-middleware/node_modules/swagger-parser/');
+    SwaggerParser = require('../../node_modules/@apidevtools/swagger-express-middleware/node_modules/swagger-parser/');
 
 describe('parsed event', function() {
   it('should fire when created with a local file',

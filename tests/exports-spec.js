@@ -3,7 +3,7 @@
 var env        = require('./test-environment'),
     express    = require('express'),
     swagger    = require('../'),
-    middleware = require('swagger-express-middleware');
+    middleware = require('@apidevtools/swagger-express-middleware');
 
 describe('Exports', function() {
   it('should export the "createApplication" function',
